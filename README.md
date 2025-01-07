@@ -1,1 +1,1 @@
-<h1><b>tic-tac-toe game app</b>></h1>
+<h1><b>tic-tac-toe game app</b></h1>
